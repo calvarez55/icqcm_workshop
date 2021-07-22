@@ -1,4 +1,5 @@
 # Welcome ICQCM Scholars!<br>
+This Github repository houses the data and codes for using EIM in Stata.
 This Github repository includes: <br>
 * Fig_MB_ExpValvsRank.png
     * This is a caterpillar plot created in the Stata walkthrough.
